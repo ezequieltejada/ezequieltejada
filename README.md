@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 # (Hola|Hi)! I'm Ezequiel Tejada :smile:
 
 I'm a:
-- <span style="color:lightgrey">IT Help Desk agent</span>
-- <span style="color:lightgrey">Windows Server Admin</span>
-- <span style="color:lightgrey">Unix Admin</span>
-- <span style="color:lightgrey">Web Developer</span>
-- <span style="color:lightgrey">Oracle DBA</span>
+- ~~IT Help Desk agent~~
+- ~~Windows Server Admin~~
+- ~~Unix Admin~~
+- ~~Web Developer~~
+- ~~Oracle DBA~~
 - Web Developer
 
 ## Tech
