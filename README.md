@@ -23,6 +23,12 @@ I'm a:
 - ~~Oracle DBA~~
 - Web Developer
 
+## Latest articles by yours truly 👨🏻‍💻
+- [My take on... migrating Firestore data](https://myowntake.hashnode.dev/migrating-firestore-data)
+- [My take on... pushing updates to a PWA](https://myowntake.hashnode.dev/pushing-updates-to-a-pwa)
+- [My take on... GitHub Actions](https://myowntake.hashnode.dev/my-take-on-github-actions)
+- [...More](https://myowntake.hashnode.dev/)
+
 ## Tech
 ### Can do:
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Angular 9+"/>
