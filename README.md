@@ -24,9 +24,9 @@ I'm a:
 - Web Developer
 
 ## Latest articles by yours truly 👨🏻‍💻
-- [My take on... migrating Firestore data](https://myowntake.hashnode.dev/migrating-firestore-data)
-- [My take on... pushing updates to a PWA](https://myowntake.hashnode.dev/pushing-updates-to-a-pwa)
-- [My take on... GitHub Actions](https://myowntake.hashnode.dev/my-take-on-github-actions)
+- [My take on... making firebase emulators work in docker](https://myowntake.hashnode.dev/my-take-on-making-firebase-emulators-work-in-docker)
+- [My take on... Hybrid vs PWA](https://myowntake.hashnode.dev/hybrid-vs-pwa)
+- [My take on... moving accounts between firebase projects](https://myowntake.hashnode.dev/moving-accounts-between-firebase-projects)
 - [...More](https://myowntake.hashnode.dev/)
 
 ## Tech
