@@ -3,14 +3,15 @@
   "build": {
       "dockerfile": "Dockerfile",
       "args": {
-          "VARIANT": "latest"
+          "VARIANT": "18"
       }
   },
   "forwardPorts": [
       4200,
       9876
   ],
-  "postCreateCommand": "npm i",
+  "shutdownAction": "stopContainer",
+  "postCreateCommand": "yarn --cwd frontend install",
   "customizations": {
       "vscode": {
           "settings": {
@@ -32,7 +33,6 @@
               "github.vscode-pull-request-github",
               "angular.ng-template",
               "johnpapa.angular2",
-              "eg2.vscode-npm-script",
               "dbaeumer.vscode-eslint",
               "cyrilletuzi.angular-schematics",
               "alexiv.vscode-angular2-files",
